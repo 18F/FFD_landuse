@@ -7,8 +7,8 @@ Initial [Federal Front Door](https://labs.usa.gov/#research-report) research sug
 The USA.gov program therefore engaged 18F to learn more about the problem landscape as well as assess the viability of building a service to improve the user experience of land-use permit requests.
 
 ## Initial research goals
-1. Explore/understand/map the challenges that agencies have with the permitting process. 
-2. Explore/understand/map the challenges that end users (guides/outfitters) have with the permitting process. 
+1. Explore/understand the challenges that agencies have with the permitting process. 
+2. Explore/understand the challenges that end users (guides/outfitters) have with the permitting process. 
 3. Understand if there is a role for USA.gov to play in improving some piece of the permitting experience, and make recommendations to USA.gov on possible approaches to do that.
 
 See more detail in the [Research Plan](https://github.com/18F/FFD_landuse/blob/master/usagov_landuse_permits_research.pdf).
