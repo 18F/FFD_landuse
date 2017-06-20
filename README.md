@@ -62,6 +62,9 @@ Path 2 would entail building a prototype in partnership with a specific forest a
 
 For more detail, see slides 14 and 15 of the [Decision Making](https://github.com/18F/FFD_landuse/blob/master/usagov_landuse_permits_workshop.pdf) workshop PDF.
 
+## Addendum
+After the decision making workshop, we were able to get follow up information and interviews with three of our original interviewees, including two Forest Service employees and one guide/outfitter. These conversations confirmed that trip planning and reporting, which is tied to both land use management and fee gathering, is an area that is ripe for significant improvement. If USA.gov wants to pursue creating a shared permitting or reporting management system, and especially if USA.gov were able to get Forest Service buy-in, Path 2 would be a good option. Pursuit of that path would require a fully dedicated, cross-functional team to navigate the complexity of different communications preferences and reporting frameworks. Additionally, strong product management skills would be required on the team, to oversee the development of the product while working to expand the service beyond the pilot forest and guide/outfitter users. 
+
 ## Assets
 - [Research Summary](https://github.com/18F/FFD_landuse/blob/master/usagov_landuse_permits_research.pdf)
 - [Decision Making](https://github.com/18F/FFD_landuse/blob/master/usagov_landuse_permits_workshop.pdf)
